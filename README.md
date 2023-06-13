@@ -1,4 +1,4 @@
-[![overview](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CccrizzZ&theme=tokyonight&hide_border=true)](https://github.com/CccrizzZ)
 
+[![overview](https://github-readme-stats.vercel.app/api?username=cccrizzz&show_icons=true&theme=tokyonight)](https://github.com/CccrizzZ)
 
-![code stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CccrizzZ&layout=compact&langs_count=8&hide_border=true&theme=tokyonight)
+![code stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cccrizzz&layout=donut&theme=tokyonight)
