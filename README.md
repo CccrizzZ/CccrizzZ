@@ -1,4 +1,6 @@
 
-[![overview](https://github-readme-stats.vercel.app/api?username=cccrizzz&show_icons=true&theme=tokyonight)](https://github.com/CccrizzZ)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=CccrizzZ&theme=juicyfresh&title=MultipleLang,Repo,Commit,Followers,Stars,Issue)
 
-![code stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cccrizzz&layout=donut&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CccrizzZ&mode=weekly&theme=aura)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CccrizzZ&layout=compact&theme=aura)
